@@ -1,0 +1,37 @@
+{
+  "name": "lesshint-teamcity",
+  "version": "1.0.0",
+  "description": "LessHint TeamCity Reporter which group by files using TeamCity Test Suite and LessHint Rule",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "teamcity",
+    "lesshint",
+    "reporter"
+  ],
+  "author": "Simon Coe <sicoemail@googlemail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "teamcity-service-messages": "^0.1.8"
+  },
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "gulp": "^3.9.1",
+    "gulp-lesshint": "^0.3.1",
+    "gulp-print": "^2.0.1",
+    "gulp-util": "^3.0.7",
+    "mocha": "^3.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SiCoe/lesshint-teamcity.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SiCoe/lesshint-teamcity/issues"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  }
+}
