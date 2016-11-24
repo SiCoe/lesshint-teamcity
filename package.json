@@ -19,8 +19,7 @@
   "devDependencies": {
     "assert": "^1.4.1",
     "gulp": "^3.9.1",
-    "gulp-lesshint": "^0.3.1",
-    "gulp-print": "^2.0.1",
+    "gulp-lesshint": "^2.0.0",
     "gulp-util": "^3.0.7",
     "mocha": "^3.1.2"
   },
