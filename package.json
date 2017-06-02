@@ -1,6 +1,6 @@
 {
   "name": "lesshint-teamcity",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "LessHint TeamCity Reporter which group by files and LessHint Rule using TeamCity Test Suite",
   "main": "index.js",
   "scripts": {
